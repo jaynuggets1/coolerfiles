@@ -13,6 +13,8 @@
   "dependencies": {
     "express": "^5.1.0",
     "express-data": "^1.0.5",
-    "express-edge": "^3.0.0"
+    "express-edge": "^3.0.0",
+    "express-fileupload": "^1.5.2",
+    "mongoose": "^8.19.1"
   }
 }
